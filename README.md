@@ -25,4 +25,4 @@ Built using basic Python concepts like **lists, dictionaries, loops, and functio
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/KeerthanaVijuNair/F1-Analysis-Python.git
+git clone https://github.com/keerthanavijunair-code/F1-Analysis-Python

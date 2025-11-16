@@ -17,9 +17,7 @@ Built using basic Python concepts like **lists, dictionaries, loops, and functio
 ## 📁 Files in this Repository
 
 - `f1_analysis.py` — main Python program  
-- `README.md` — project documentation  
-- (Optional) `f1_data.csv` — dataset for analysis  
-
+- `README.md` — project documentation   
 ---
 
 ## ▶️ How to Run
